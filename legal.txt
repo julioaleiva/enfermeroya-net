@@ -1,0 +1,69 @@
+AVISO LEGAL Y CONDICIONES GENERALES DE USO DE ENFERMEROYA
+
+Última actualización: 20 de septiembre de 2026
+
+1. TITULARIDAD Y CONTACTO
+
+EnfermeroYa es una plataforma tecnológica desarrollada por WSS W Systems And Solutions (en adelante, “WSS”). Para consultas relacionadas con el funcionamiento del sistema, puede escribir a wssarg@gmail.com.
+
+2. FINALIDAD DE LA PLATAFORMA
+
+EnfermeroYa brinda herramientas digitales para facilitar el contacto, la comunicación, la solicitud, la coordinación y el seguimiento administrativo de servicios entre pacientes o personas usuarias y profesionales de enfermería.
+
+La plataforma no es un servicio de emergencias, no reemplaza una consulta médica, no realiza diagnósticos, no prescribe tratamientos y no sustituye el criterio profesional de médicos, enfermeros u otros integrantes del sistema de salud.
+
+Ante una emergencia, riesgo para la vida o necesidad de atención inmediata, el usuario debe comunicarse con el servicio de emergencias de su localidad. En Argentina puede llamar al 107 o al 911, según disponibilidad local.
+
+3. PROFESIONALES Y PRESTACIÓN DE LOS SERVICIOS
+
+Los profesionales son responsables de mantener actualizados sus datos, matrícula, habilitaciones y demás antecedentes exigibles, y de actuar dentro de los límites de su formación, competencia profesional y normativa aplicable.
+
+Las decisiones clínicas, indicaciones, procedimientos, materiales utilizados, horarios acordados y demás aspectos propios de cada atención corresponden a las personas que intervienen en ella. WSS provee la infraestructura tecnológica y no dirige ni reemplaza el criterio profesional durante la atención.
+
+Nada de lo establecido en este aviso excluye o limita responsabilidades que no puedan ser excluidas conforme a la legislación vigente, ni restringe los derechos de consumidores, pacientes o usuarios.
+
+4. RESPONSABILIDADES DE LOS USUARIOS
+
+Los usuarios deben proporcionar información verdadera, suficiente y actualizada; utilizar el sistema de buena fe; resguardar sus credenciales; respetar a las demás personas; y abstenerse de usar EnfermeroYa para actividades ilegales, fraudulentas, abusivas, discriminatorias o que puedan poner en riesgo a terceros.
+
+Está prohibido suplantar identidades, alterar información, interferir con el funcionamiento del sistema, intentar acceder a cuentas o datos ajenos, publicar contenido ofensivo o engañoso, y utilizar los datos obtenidos mediante la plataforma para finalidades no autorizadas.
+
+Cada usuario es responsable por el uso que realice de su cuenta y por la información que cargue, comparta o comunique, sin perjuicio de las obligaciones legales que correspondan a WSS y a los demás participantes.
+
+5. DISPONIBILIDAD Y FUNCIONAMIENTO
+
+WSS procura mantener la plataforma disponible y segura, pero pueden producirse interrupciones por mantenimiento, fallas de conectividad, servicios de terceros, causas de fuerza mayor o circunstancias fuera de su control razonable.
+
+La información mostrada por el sistema puede depender de datos ingresados por pacientes, profesionales, administradores, proveedores de pago u otros servicios externos. Los usuarios deben verificar la información esencial antes de adoptar decisiones relacionadas con una atención.
+
+6. PAGOS Y SERVICIOS DE TERCEROS
+
+Cuando la plataforma permita utilizar medios de pago externos, dichas operaciones también estarán sujetas a las condiciones, controles y disponibilidad del proveedor correspondiente. WSS no solicita por correo electrónico contraseñas, claves bancarias ni códigos de seguridad de tarjetas.
+
+Los enlaces a sitios o aplicaciones externas se ofrecen para facilitar el acceso. Cada tercero es responsable de sus propios servicios, términos, políticas y medidas de seguridad.
+
+7. PRIVACIDAD Y CONFIDENCIALIDAD
+
+La información vinculada con la salud puede constituir un dato sensible. Pacientes, profesionales y administradores deben tratar los datos personales y de salud con confidencialidad y solamente para finalidades legítimas relacionadas con el servicio.
+
+WSS adoptará medidas razonables de seguridad dentro del alcance del sistema. Ningún usuario debe descargar, divulgar, reutilizar o compartir información de terceros sin autorización o fundamento legal.
+
+Este aviso no reemplaza una política de privacidad específica. Cuando corresponda, la recopilación y el tratamiento de datos deberán informarse de manera clara y realizarse conforme a la Ley argentina 25.326 y demás normativa aplicable.
+
+8. PROPIEDAD INTELECTUAL
+
+El nombre EnfermeroYa, su diseño, programas, interfaces, textos, gráficos y demás elementos propios del sistema están protegidos por la normativa aplicable y pertenecen a WSS o se utilizan con la autorización correspondiente.
+
+No se autoriza copiar, modificar, distribuir, comercializar, descompilar, publicar o explotar total o parcialmente estos elementos, salvo autorización previa y escrita o los usos permitidos por ley.
+
+9. USO INDEBIDO
+
+WSS podrá restringir o suspender accesos ante indicios razonables de fraude, riesgos de seguridad, incumplimientos de estas condiciones o usos que puedan perjudicar a pacientes, profesionales, terceros o a la plataforma, sin perjuicio de las medidas y derechos que correspondan conforme a la ley.
+
+10. ALCANCE DEL AVISO Y LEY APLICABLE
+
+Estas condiciones deben interpretarse de acuerdo con las leyes de la República Argentina. Si alguna disposición resultara inválida o inaplicable, las restantes conservarán su vigencia en la medida permitida por la ley.
+
+Este documento tiene carácter informativo y constituye un borrador general. Debe ser revisado y adaptado por un profesional del derecho antes de utilizarse como términos contractuales definitivos, política de privacidad o consentimiento para el tratamiento de datos de salud.
+
+© 2026 WSS W Systems And Solutions. Todos los derechos reservados.
